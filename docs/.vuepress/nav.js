@@ -1,15 +1,15 @@
 var EcosystemNav = [
   {
     textEN: 'Repositories',
-    textES: 'Repositorios',
+    textES: '项目',
     textZH: '项目',
     items: [
       {
-        text: 'vue-element-admin',
+        text: 'vue-admin',
         link: 'https://github.com/PanJiaChen/vue-element-admin'
       },
       {
-        text: 'vue-admin-template',
+        text: 'vue-template',
         link: 'https://github.com/PanJiaChen/vue-admin-template'
       },
       {
@@ -41,7 +41,7 @@ var EcosystemNav = [
   },
   {
     textEN: 'Help',
-    textES: 'Ayuda',
+    textES: '帮助',
     textZH: '帮助',
     items: [
       {
